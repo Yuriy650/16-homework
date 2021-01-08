@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/http//Yuriy650.github.io/16-homework/static/css/main.9b2e6117.chunk.css",
+    "main.js": "/http//Yuriy650.github.io/16-homework/static/js/main.29c4888e.chunk.js",
+    "main.js.map": "/http//Yuriy650.github.io/16-homework/static/js/main.29c4888e.chunk.js.map",
+    "runtime-main.js": "/http//Yuriy650.github.io/16-homework/static/js/runtime-main.71c1bb0a.js",
+    "runtime-main.js.map": "/http//Yuriy650.github.io/16-homework/static/js/runtime-main.71c1bb0a.js.map",
+    "static/js/2.eb7da8c5.chunk.js": "/http//Yuriy650.github.io/16-homework/static/js/2.eb7da8c5.chunk.js",
+    "static/js/2.eb7da8c5.chunk.js.map": "/http//Yuriy650.github.io/16-homework/static/js/2.eb7da8c5.chunk.js.map",
+    "static/js/3.0154ec48.chunk.js": "/http//Yuriy650.github.io/16-homework/static/js/3.0154ec48.chunk.js",
+    "static/js/3.0154ec48.chunk.js.map": "/http//Yuriy650.github.io/16-homework/static/js/3.0154ec48.chunk.js.map",
+    "index.html": "/http//Yuriy650.github.io/16-homework/index.html",
+    "static/css/main.9b2e6117.chunk.css.map": "/http//Yuriy650.github.io/16-homework/static/css/main.9b2e6117.chunk.css.map",
+    "static/js/2.eb7da8c5.chunk.js.LICENSE.txt": "/http//Yuriy650.github.io/16-homework/static/js/2.eb7da8c5.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.71c1bb0a.js",
+    "static/js/2.eb7da8c5.chunk.js",
+    "static/css/main.9b2e6117.chunk.css",
+    "static/js/main.29c4888e.chunk.js"
+  ]
+}
